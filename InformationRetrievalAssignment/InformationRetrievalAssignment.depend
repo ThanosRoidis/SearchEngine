@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1423350598 source:/home/thanos/CodeBlocksProjects/InformationRetrievalAssignment/src/InvertedIndex.cpp
+	"InvertedIndex.h"
+	<iostream>
+	<thread>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<vector>
+	<mutex>
+	<math.h>
+
+1423354459 /home/thanos/CodeBlocksProjects/InformationRetrievalAssignment/include/InvertedIndex.h
+	<utility>
+	<string>
+	<vector>
+	<list>
+	<unordered_map>
+	<mutex>
+
+1423356362 source:/home/thanos/CodeBlocksProjects/InformationRetrievalAssignment/main.cpp
+	<iostream>
+	<thread>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<vector>
+	<mutex>
+	<unordered_map>
+	<InvertedIndex.h>
+	<sys/time.h>
+
